@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: #B5A642;
+  font-family:edwardian script itc;
+  text-align: center;
+  font-size: 45px;
+}
+ul {
+  text-align: center;
+}
+p {
+  color: #B5A642;
+  font-family:edwardian script itc;
+  text-align: center;
+  font-size: 35px;
+}
+p.toetajad {
+  margin-left:auto;
+  margin-right:auto"
+}
+address {
+  color: #B5A642;
+  text-align: center;
+}
+
+p.kontakt {
+  color: #B5A642;
+  font-family: edwardian script itc;
+  text-align: center;
+  font-size: 15px;
+}
+
+table.tabel {
+  color: #C7A317;
+  font-family: Times New Roman;
+  text-align: center;
+  font-size: 20px;
+}
